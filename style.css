@@ -92,6 +92,11 @@ body {
     background: #0088cc;
 }
 
+.social__links ul .whatsapp:hover {
+    background: #25d366;
+}
+
+
 .social__links ul .github:hover {
     background: #333;
 }
